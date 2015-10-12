@@ -8,7 +8,7 @@ namespace EjemploMVCMio.Controllers
 {
     public class AjaxController : Controller
     {
-        // GET: Ajax
+        // GET: Segundo cambio pero ahora desde rama master
         public ActionResult ImportarPagina()
         {
             return View();
