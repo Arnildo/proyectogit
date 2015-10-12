@@ -13,7 +13,7 @@ namespace EjemploMVCMio.Controllers
         {
             return View();
         }
-
+        // GET: Cambio desde rama testing
         public ActionResult ImportarSeccion()
         {
             return View();
