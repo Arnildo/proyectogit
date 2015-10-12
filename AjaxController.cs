@@ -18,7 +18,7 @@ namespace EjemploMVCMio.Controllers
         {
             return View();
         }
-
+//Cambio desde problema54
         public ActionResult AjaxSeccion()
         {
             return View();
